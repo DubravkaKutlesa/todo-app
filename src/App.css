@@ -1,0 +1,17 @@
+.completed {
+  text-decoration: line-through;
+  background-color: rgb(92, 164, 120);
+}
+.incompleted {
+  text-decoration: none;
+  
+}
+
+body {
+  background-image: url('./assets/katze.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  
+}
